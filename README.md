@@ -16,24 +16,6 @@ Praktikum Machine Learning bertujuan untuk memberikan pemahaman dasar hingga men
 
 Mahasiswa akan mempelajari berbagai konsep penting melalui latihan dan projek yang dapat dieksekusi menggunakan Python.
 
----
-
-## 📂 Struktur Repository
-
-Prak.-Machine-Learning/
-│
-├── Modul 1/ # Pengantar Machine Learning & Python dasar
-├── Modul 2/ # Preprocessing data (cleaning, encoding, scaling)
-├── Modul 3/ # Regresi & klasifikasi dasar
-├── Modul 4/ # Model ML populer (KNN, SVM, DT, RF, dll)
-├── Modul 5/ # Evaluasi model & confusion matrix
-└── README.md
-
-
-> Struktur ini dapat berubah sesuai update modul atau kebutuhan praktikum.
-
----
-
 ## 🛠️ Teknologi dan Library yang Digunakan
 
 Praktikum ini memanfaatkan berbagai tools dan library Python yang umum digunakan dalam *data science*:
@@ -47,18 +29,6 @@ Praktikum ini memanfaatkan berbagai tools dan library Python yang umum digunakan
 
 ---
 
-## 🎯 Tujuan Pembelajaran
-
-Melalui praktikum ini, mahasiswa diharapkan dapat:
-
-- Memahami alur kerja *machine learning*
-- Melakukan preprocessing data (cleaning, encoding, scaling)
-- Membangun model klasifikasi dan regresi
-- Menggunakan algoritma dasar seperti KNN, SVM, Decision Tree, Random Forest
-- Mengevaluasi performa model menggunakan metrik yang sesuai
-- Mengimplementasikan konsep ML pada kasus dan dataset nyata
-
----
 
 ## 🚀 Cara Menjalankan Proyek
 
@@ -66,5 +36,5 @@ Melalui praktikum ini, mahasiswa diharapkan dapat:
    ```bash
    git clone https://github.com/username/Prak.-Machnine-Learning.git
 2. **Masuk ke direktori proyek**
-  ```bash
+   ```bash
    cd Prak.-Machnine-Learning

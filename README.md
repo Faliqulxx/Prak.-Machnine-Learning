@@ -67,4 +67,4 @@ Melalui praktikum ini, mahasiswa diharapkan dapat:
    git clone https://github.com/username/Prak.-Machnine-Learning.git
 2. **Masuk ke direktori proyek**
   ```bash
-  cd Prak.-Machnine-Learning
+   cd Prak.-Machnine-Learning
